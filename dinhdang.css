@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:auto;}
+.khung{
+	width: 960px;
+	height: 130px;
+	border:1px solid black ; 
+	
+}
+.anh{
+	float:left;
+}
+nav {
+	padding-top: 10px;
+	float:left;
+}
+nav a {
+	padding-left: 20px;
+	text-decoration: none;
+	color:#000000;
+}
+.chu1{
+	float:right;
+	padding-top:5px;
+	padding-left: 10px;
+}
+.chu p a:hover{
+	color:red;
+	
+}
